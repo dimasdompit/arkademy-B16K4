@@ -11,8 +11,14 @@
 * Kegunaan JSON pada REST API adalah sebagai format untuk bertukar data antara client dan server atau antar aplikasi.
 
 ## Cara menjalankan soal no. 6
-[Direktori soal 6](https://github.com/dimasdompit/)
+[Direktori soal 6](https://github.com/dimasdompit/arkademy-B16K4/tree/master/soal6)
 1. Masuk ke direktori ```soal6```, install dependencies dengan perintah ```npm install```.
 2. Untuk menjalankan Programnya dengan mengetikkan ```node app.js```
 
 ## Screenshot soal no. 6
+
+![Image of soal6](https://github.com/dimasdompit/arkademy-B16K4/blob/master/soal6/screenshot/img1.png)
+![Image of soal6](https://github.com/dimasdompit/arkademy-B16K4/blob/master/soal6/screenshot/img2.png)
+![Image of soal6](https://github.com/dimasdompit/arkademy-B16K4/blob/master/soal6/screenshot/img3.png)
+![Image of soal6](https://github.com/dimasdompit/arkademy-B16K4/blob/master/soal6/screenshot/img4.png)
+![Image of soal6](https://github.com/dimasdompit/arkademy-B16K4/blob/master/soal6/screenshot/img5.png)
