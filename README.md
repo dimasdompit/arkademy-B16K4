@@ -1,6 +1,6 @@
 # Bootcamp Arkademy Test - B16K4-A
 ## Stack dan Software yang digunakan/dibutuhkan :
-* Untuk Software menggunakan code editor Visual Studio Code, PHPMyAdmin untuk manajemen database dan Node versi
+* Untuk Software menggunakan code editor Visual Studio Code, PHPMyAdmin untuk manajemen database, menggunakan framework express, framework hbs untuk template engine dan Node versi 13.11.0
 * Soal 1 - 5 menggunakan NodeJS
 
 ## Cara menjalankan Program soal no. 1 - 5
