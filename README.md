@@ -13,7 +13,7 @@
 ## Cara menjalankan soal no. 6
 [Direktori soal 6](https://github.com/dimasdompit/arkademy-B16K4/tree/master/soal6)
 1. Masuk ke direktori ```soal6```, install dependencies dengan perintah ```npm install```.
-2. Untuk menjalankan Programnya dengan mengetikkan ```node app.js```
+2. Untuk menjalankan Programnya dengan mengetikkan ```node index.js```
 
 ## Screenshot soal no. 6
 
