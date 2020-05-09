@@ -22,3 +22,5 @@
 ![Image of soal6](https://github.com/dimasdompit/arkademy-B16K4/blob/master/soal6/screenshot/img3.png)
 ![Image of soal6](https://github.com/dimasdompit/arkademy-B16K4/blob/master/soal6/screenshot/img4.png)
 ![Image of soal6](https://github.com/dimasdompit/arkademy-B16K4/blob/master/soal6/screenshot/img5.png)
+
+Terima kasih. Mohon maaf apabila masih ada yang kurang sempurna!
